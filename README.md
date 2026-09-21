@@ -1,5 +1,8 @@
 # Tweakivo
 
+<img width="2529" height="1281" alt="изображение" src="https://github.com/user-attachments/assets/c3d9f022-6a8a-4f48-90b0-4ac854250ae0" />
+
+
 **Windows Control Studio** — a desktop toolkit for configuring, optimizing, and preparing Windows from one focused interface.
 
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?logo=windows11&logoColor=white)
