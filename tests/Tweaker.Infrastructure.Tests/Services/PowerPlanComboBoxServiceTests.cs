@@ -143,7 +143,7 @@ public class PowerPlanComboBoxServiceTests
         brandedOptions[0].IsActive.Should().BeTrue();
         options.Should().NotContain(o =>
             o.PredefinedPlan == null &&
-            PowerPlanDefinitions.IsTweakivoPowerPlanName(o.SystemPlan?.Name));
+            PowerPlanDefinitions.IsTweakivoPowerPlanName(o.SystemPlan == null ? null : o.SystemPlan.Name));
     }
 
     [Fact]
