@@ -1,5 +1,7 @@
 # Tweakivo
 
+[Official website](https://tweakivo.lol) · [FAQ & Guide](https://tweakivo.lol/faq) · [Contact](https://tweakivo.lol/contacts)
+
 <img width="2541" height="1265" alt="изображение" src="https://github.com/user-attachments/assets/6dc7350a-e9a3-47a5-adbd-4750870d9972" />
 
 **Windows Control Studio** — a desktop toolkit for configuring, optimizing, and preparing Windows from one focused interface.
