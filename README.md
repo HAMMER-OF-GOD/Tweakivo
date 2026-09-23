@@ -60,43 +60,12 @@ The repository does not embed account-specific endpoints. Online integrations ar
   - Desktop development with C++
 - Inno Setup 6 when producing an installer
 
-## Build
-
-Clone the repository, then run the development helper from PowerShell:
-
-```powershell
-./extras/dev-build-and-run.ps1
-```
-
-To create a packaged build:
-
-```powershell
-./extras/build-and-package.ps1
-```
-
-The packaging script supports beta builds, optional code signing, custom versions, and custom output directories. Run `Get-Help` or inspect the script parameters for the complete set of options.
-
-## Test
-
-Run every available test suite:
-
-```powershell
-./extras/run-tweaker-tests.ps1
-```
-
-On machines without Visual Studio, skip the WinUI build check:
-
-```powershell
-./extras/run-tweaker-tests.ps1 -SkipUITests
-```
-
 ## Repository layout
 
 ```text
 .
 |-- src/       Application projects and bundled resources
 |-- tests/     Unit and integration tests
-|-- extras/    Development, test, packaging, and installer scripts
 `-- .github/   Issue forms, pull request template, and automation
 ```
 
