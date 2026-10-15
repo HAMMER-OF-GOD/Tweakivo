@@ -76,7 +76,3 @@ Tweakivo can change system-wide Windows settings and remove software. Review que
 ## Contributing
 
 Use the issue forms for reproducible bug reports and focused feature proposals. Keep changes scoped, include tests where practical, and verify the relevant test suites before opening a pull request.
-
-## Notices
-
-Third-party components and their attribution are documented in [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt). Project artwork may have additional attribution requirements documented alongside the assets.
